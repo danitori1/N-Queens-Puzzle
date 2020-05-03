@@ -1,4 +1,4 @@
-# N QueensPuzzle
+# N Queens Puzzle
 
 ## BUILT
 The game is made with python using TKinter framework to create desktop GUI applications and PIL for image management.
